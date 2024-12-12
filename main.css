@@ -73,7 +73,7 @@ body {
 .lotus-leaf {
   width: 250px;
   height: 150px;
-  top: 800px;
+  top: 400px;
   background: radial-gradient(ellipse at center, #066609, #013504);
   border-radius: 50%;
   position: absolute;
